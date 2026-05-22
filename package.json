@@ -12,6 +12,7 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "@capacitor/android": "8.3.4",
     "@capacitor/app": "8.1.0",
     "@capacitor/core": "8.3.4",
     "@capacitor/haptics": "8.0.2",
@@ -19,8 +20,10 @@
     "@capacitor/status-bar": "8.0.2",
     "@ionic/vue": "^8.0.0",
     "@ionic/vue-router": "^8.0.0",
+    "axios": "^1.16.1",
     "ionicons": "^7.0.0",
     "vue": "^3.3.0",
+    "vue-axios": "^3.5.2",
     "vue-router": "^4.2.0"
   },
   "devDependencies": {
